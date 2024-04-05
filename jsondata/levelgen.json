@@ -1,0 +1,497 @@
+{
+    "1" : {
+        "levelName" : "Enter the catacombs...",
+        "possibleObjects" : [[0, 1], [1, 1], [2, 1]],
+        "possibleEnemies" : [[4, 1], [5, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [5, 1],
+            [6, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [0, 1],
+        "decorationObjects" : [0, 1, 2, 3],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [28, 8, 20],
+            [72, 20, 20],
+            [103, 61, 43]
+        ],
+        "randomMusicDirectory" : "caves",
+        "randomMusicChannels" : ["piano", "voice", "blip"],
+        "jaggedness" : 6
+    },
+    "4" : {
+        "levelName" : "Goblin dwellings",
+        "possibleObjects" : [[3, 1], [4, 1], [5, 1]],
+        "possibleEnemies" : [[4, 0.3], [5, 0.3], [0, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [2],
+        "decorationObjects" : [4, 5, 6, 7],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [32, 10, 10],
+            [64, 46, 28],
+            [22, 10, 5]
+        ],
+        "randomMusicDirectory" : "goblins",
+        "randomMusicChannels" : ["piano", "sax", "percussion"],
+        "jaggedness" : 4
+    },
+    "7" : {
+        "levelName" : "Abandoned mineshaft",
+        "possibleObjects" : [[6, 1], [7, 0.5], [8, 0.5], [9, 1]],
+        "possibleEnemies" : [[4, 1], [6, 0.7], [7, 0.5]],
+        "possibleChestItems" : [
+            [0, 1],
+            [14, 1],
+            [15, 0.3],
+            [16, 0.3],
+            [17, 1],
+            [18, 1],
+            [20, 0.1],
+            [21, 0.1],
+            [22, 0.1],
+            [23, 0.1],
+            [24, 0.1],
+            [25, 0.1],
+            [26, 0.1],
+            [27, 0.1],
+            [28, 0.1],
+            [29, 0.1],
+            [30, 0.01],
+            [46, 1]
+        ],
+        "presetRooms" : [3, 4],
+        "decorationObjects" : [8, 9, 10, 11],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [6, 2, 8],
+            "stone2",
+            "stone"
+        ],
+        "randomMusicDirectory" : "mineshaft",
+        "randomMusicChannels" : ["piano", "chime", "strings"],
+        "jaggedness" : 8
+    },
+    "10" : {
+        "levelName" : "Slimes' domain",
+        "possibleObjects" : [],
+        "possibleEnemies" : [[2, 1]],
+        "possibleChestItems" : [
+        ],
+        "presetRooms" : [5],
+        "decorationObjects" : [],
+        "decorationDensity" : 0,
+        "fillArguments" : [
+            "slime",
+            "slimewall",
+            "slime2"
+        ],
+        "randomMusicDirectory" : "slime",
+        "randomMusicChannels" : ["drum"],
+        "jaggedness" : 3
+    },
+    "13" : {
+        "levelName" : "Further down",
+        "possibleObjects" : [[10, 1], [11, 1]],
+        "possibleEnemies" : [[8, 1], [9, 1], [10, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [6, 7],
+        "decorationObjects" : [12, 13, 14, 15],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [3, 6, 13],
+            "stone4",
+            "stone3"
+        ],
+        "randomMusicDirectory" : "further",
+        "randomMusicChannels" : ["highpad", "lowpad", "piano", "strings"],
+        "jaggedness" : 6
+    },
+    "16" : {
+        "levelName" : "Skeleton hollow",
+        "possibleObjects" : [[12, 1], [13, 1]],
+        "possibleEnemies" : [[1, 1], [11, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [2, 3],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [8],
+        "decorationObjects" : [16, 17, 18, 19],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [3, 3, 3],
+            "rock2",
+            "rock"
+        ],
+        "randomMusicDirectory" : "skeleton",
+        "randomMusicChannels" : ["calliope", "celeste", "drums", "pad"],
+        "jaggedness" : 8
+    },
+    "19" : {
+        "levelName" : "Fungus grotto",
+        "possibleObjects" : [[14, 1], [15, 1]],
+        "possibleEnemies" : [[12, 1], [13, 1], [14, 1]],
+        "possibleChestItems" : [
+            [0, 3],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 3],
+            [46, 1]
+        ],
+        "presetRooms" : [9],
+        "decorationObjects" : [20, 21, 22, 23],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [33, 6, 5],
+            "shroomwall",
+            "shroom"
+        ],
+        "randomMusicDirectory" : "shrooms",
+        "randomMusicChannels" : ["tongue drum", "oboe", "piano"],
+        "jaggedness" : 0
+    },
+    "22" : {
+        "levelName" : "Lost civilisation",
+        "possibleObjects" : [[16, 1], [17, 1], [18, 1], [19, 1]],
+        "possibleEnemies" : [],
+        "possibleChestItems" : [
+            [39, 1],
+            [40, 1],
+            [41, 1],
+            [42, 0.1],
+            [43, 0.1],
+            [44, 10]
+        ],
+        "presetRooms" : [10, 11, 12],
+        "decorationObjects" : [24, 25, 26, 27],
+        "decorationDensity" : 0.5,
+        "fillArguments" : [
+            [0, 0, 0],
+            "spikywall",
+            [0, 0, 0]
+        ],
+        "randomMusicDirectory" : "lost",
+        "randomMusicChannels" : ["breath", "voice"],
+        "jaggedness" : 10
+    },
+    "25" : {
+        "levelName" : "Colder caves",
+        "possibleObjects" : [[20, 1], [21, 1]],
+        "possibleEnemies" : [[1, 1], [15, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [13],
+        "decorationObjects" : [28, 29, 30, 31],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [48, 42, 36],
+            [108, 140, 139],
+            [200, 207, 206]
+        ],
+        "randomMusicDirectory" : "colder",
+        "randomMusicChannels" : ["bell", "flute", "strings"],
+        "jaggedness" : 6
+    },
+    "28" : {
+        "levelName" : "Frozen solid",
+        "possibleObjects" : [[22, 1], [23, 1], [24, 1]],
+        "possibleEnemies" : [[15, 1], [16, 1], [17, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [14],
+        "decorationObjects" : [32, 33, 34, 35],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [145, 188, 196],
+            [165, 209, 209],
+            [218, 245, 240]
+        ],
+        "randomMusicDirectory" : "frozen",
+        "randomMusicChannels" : ["crystal", "sine"],
+        "friction" : 0.99,
+        "traction" : 0.3,
+        "jaggedness" : 10
+    },
+    "31" : {
+        "levelName" : "Realm of the horse-men",
+        "possibleObjects" : [[25, 1], [26, 1]],
+        "possibleEnemies" : [[18, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [15, 16],
+        "decorationObjects" : [36, 37, 38, 39],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            "horsefloor",
+            [8, 255, 0],
+            "horsewall"
+        ],
+        "randomMusicDirectory" : "horse",
+        "randomMusicChannels" : [],
+        "jaggedness" : 3
+    },
+    "34" : {
+        "levelName" : "Near the core",
+        "possibleObjects" : [[27, 1], [28, 1]],
+        "possibleEnemies" : [[19, 1], [20, 0.5], [4, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [4, 17],
+        "decorationObjects" : [40, 41, 42, 43],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            [34, 26, 20],
+            "nearcorewall",
+            "nearcore"
+        ],
+        "randomMusicDirectory" : "nearcore",
+        "randomMusicChannels" : ["choir", "piano", "ocarina"],
+        "jaggedness" : 6
+    },
+    "37" : {
+        "levelName" : "Digging into the core",
+        "possibleObjects" : [[29, 1]],
+        "possibleEnemies" : [[20, 1], [21, 1], [22, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [4, 18],
+        "decorationObjects" : [44, 45, 46, 47],
+        "decorationDensity" : 1,
+        "fillArguments" : [
+            [0, 0, 0],
+            "lavawall",
+            "lava"
+        ],
+        "randomMusicDirectory" : "intocore",
+        "randomMusicChannels" : ["choir", "brass"],
+        "jaggedness" : 9
+    },
+    "40" : {
+        "levelName" : "C.O.R.E research facility",
+        "possibleObjects" : [[30, 1], [31, 1]],
+        "possibleEnemies" : [[23, 1], [24, 1], [25, 1]],
+        "possibleChestItems" : [
+            [38, 1],
+            [45, 1],
+            [0, 1],
+            [17, 1]
+        ],
+        "presetRooms" : [19, 20, 21],
+        "decorationObjects" : [],
+        "decorationDensity" : 0,
+        "fillArguments" : [
+            "labfloor",
+            [192, 196, 196],
+            [250, 252, 252]
+        ],
+        "randomMusicDirectory" : "core",
+        "randomMusicChannels" : ["noise", "beep"],
+        "jaggedness" : 0
+    },
+    "43" : {
+        "levelName" : "C.O.R.E failed experiments dungeon",
+        "possibleObjects" : [],
+        "possibleEnemies" : [[26, 1], [27, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [22, 23],
+        "decorationObjects" : [],
+        "decorationDensity" : 0,
+        "fillArguments" : [
+            "labfloor2",
+            "labwall",
+            [17, 14, 18]
+        ],
+        "randomMusicDirectory" : "core2",
+        "randomMusicChannels" : [],
+        "jaggedness" : 4
+    },
+    "46" : {
+        "levelName" : "Even deeper?",
+        "possibleObjects" : [],
+        "possibleEnemies" : [[28, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [45, 1],
+            [46, 1]
+        ],
+        "presetRooms" : [7],
+        "decorationObjects" : [],
+        "decorationDensity" : 0,
+        "fillArguments" : [
+            "deeperfloor",
+            "deeperwall2",
+            "deeperwall"
+        ],
+        "randomMusicDirectory" : "evendeeper",
+        "randomMusicChannels" : ["piano1", "piano2", "piano3", "piano4", "choir"],
+        "jaggedness" : 6
+    },
+    "49" : {
+        "levelName" : "At Death's door",
+        "possibleObjects" : [[34, 1]],
+        "possibleEnemies" : [[29, 1]],
+        "possibleChestItems" : [
+            [0, 1],
+            [1, 1],
+            [3, 1],
+            [4, 1],
+            [5, 1],
+            [6, 1],
+            [8, 1],
+            [9, 1],
+            [10, 1],
+            [17, 1],
+            [46, 1],
+            [47, 1]
+        ],
+        "presetRooms" : [24],
+        "decorationObjects" : [48, 49, 50, 51],
+        "decorationDensity" : 2,
+        "fillArguments" : [
+            "deathfloor",
+            "deathwall",
+            [0, 0, 0]
+        ],
+        "randomMusicDirectory" : "deathsdoor",
+        "randomMusicChannels" : [],
+        "jaggedness" : 8
+    },
+    "52" : {
+        "levelName" : "Pandemonium",
+        "possibleObjects" : [],
+        "possibleEnemies" : [[30, 1], [31, 1], [32, 1], [33, 1], [34, 1], [35, 1], [5, 1], [8, 1]],
+        "possibleChestItems" : [],
+        "presetRooms" : [25],
+        "decorationObjects" : [52, 53, 54, 55],
+        "decorationDensity" : 0.5,
+        "fillArguments" : [
+            "hellwall2",
+            "hellwall",
+            "spirits"
+        ],
+        "randomMusicDirectory" : "pandemonium",
+        "randomMusicChannels" : ["choir"],
+        "jaggedness" : 12
+    }
+}

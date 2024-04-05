@@ -1,0 +1,482 @@
+[
+    {
+        "name" : "Shroom",
+        "cost" : 10,
+        "attackDamage" : 0,
+        "consumeHp" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [1],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Apple",
+        "cost" : 10,
+        "attackDamage" : 0,
+        "consumeHp" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [2],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Bone",
+        "cost" : 25,
+        "attackDamage" : 4,
+        "consumeHp" : -10,
+        "animationSpeed" : 0,
+        "animationSprites" : [3],
+        "durability" : 3,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Shortsword",
+        "cost" : 30,
+        "attackDamage" : 8,
+        "consumeHp" : -16,
+        "animationSpeed" : 0,
+        "animationSprites" : [4],
+        "durability" : 15,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Longsword",
+        "cost" : 35,
+        "attackDamage" : 10,
+        "consumeHp" : -20,
+        "animationSpeed" : 0,
+        "animationSprites" : [5],
+        "durability" : 20,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Dagger",
+        "cost" : 25,
+        "attackDamage" : 5,
+        "consumeHp" : -10,
+        "animationSpeed" : 0,
+        "animationSprites" : [6],
+        "durability" : 10,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Spear",
+        "cost" : 25,
+        "attackDamage" : 6,
+        "consumeHp" : -12,
+        "animationSpeed" : 0,
+        "animationSprites" : [7],
+        "durability" : 15,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Boxing glove",
+        "cost" : 50,
+        "attackDamage" : 20,
+        "consumeHp" : -40,
+        "animationSpeed" : 0,
+        "animationSprites" : [8],
+        "durability" : 100,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Double axe",
+        "cost" : 35,
+        "attackDamage" : 10,
+        "consumeHp" : -20,
+        "animationSpeed" : 0,
+        "animationSprites" : [9],
+        "durability" : 20,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Chicken dinner",
+        "cost" : 50,
+        "attackDamage" : 0,
+        "consumeHp" : 25,
+        "animationSpeed" : 0,
+        "animationSprites" : [10],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Hand axe",
+        "cost" : 30,
+        "attackDamage" : 8,
+        "consumeHp" : -16,
+        "animationSpeed" : 0,
+        "animationSprites" : [11],
+        "durability" : 15,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Goblin guts",
+        "cost" : 20,
+        "attackDamage" : 0,
+        "consumeHp" : -1,
+        "animationSpeed" : 0,
+        "animationSprites" : [12],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Goblin eye",
+        "cost" : 30,
+        "attackDamage" : 0,
+        "consumeHp" : -2,
+        "animationSpeed" : 0,
+        "animationSprites" : [13],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Goblin ear",
+        "cost" : 300,
+        "attackDamage" : 0,
+        "consumeHp" : -1,
+        "animationSpeed" : 0,
+        "animationSprites" : [14],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Pickaxe",
+        "cost" : 30,
+        "attackDamage" : 6,
+        "consumeHp" : -12,
+        "animationSpeed" : 0,
+        "animationSprites" : [15],
+        "durability" : 20,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Gold ingot",
+        "cost" : 150,
+        "attackDamage" : 0,
+        "consumeHp" : -10,
+        "animationSpeed" : 0,
+        "animationSprites" : [16],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Iron ingot",
+        "cost" : 100,
+        "attackDamage" : 0,
+        "consumeHp" : -10,
+        "animationSpeed" : 0,
+        "animationSprites" : [17],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Toadstool",
+        "cost" : 10,
+        "attackDamage" : 0,
+        "consumeHp" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [18],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Moss",
+        "cost" : 5,
+        "attackDamage" : 0,
+        "consumeHp" : 5,
+        "animationSpeed" : 0,
+        "animationSprites" : [19],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Dynamite",
+        "cost" : 50,
+        "attackDamage" : 50,
+        "consumeHp" : -50,
+        "animationSpeed" : 0,
+        "animationSprites" : [20],
+        "durability" : 1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Lapis ore",
+        "cost" : 80,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [21],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Ruby ore",
+        "cost" : 90,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [22],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Emerald ore",
+        "cost" : 100,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [23],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Diamond ore",
+        "cost" : 150,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [24],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Coal ore",
+        "cost" : 60,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [25],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Iron ore",
+        "cost" : 70,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [26],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Gold ore",
+        "cost" : 130,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [27],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Amethyst ore",
+        "cost" : 110,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [28],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Quartz ore",
+        "cost" : 120,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [29],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Turquoise ore",
+        "cost" : 125,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [30],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "??? ore",
+        "cost" : 300,
+        "attackDamage" : 0,
+        "consumeHp" : -25,
+        "animationSpeed" : 0,
+        "animationSprites" : [31],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Slimeball",
+        "cost" : 10,
+        "attackDamage" : 0,
+        "consumeHp" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [32],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Slime shortsword",
+        "cost" : 30,
+        "attackDamage" : 8,
+        "consumeHp" : -16,
+        "animationSpeed" : 0,
+        "animationSprites" : [33],
+        "durability" : 15,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Slime longsword",
+        "cost" : 35,
+        "attackDamage" : 10,
+        "consumeHp" : -20,
+        "animationSpeed" : 0,
+        "animationSprites" : [34],
+        "durability" : 20,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Slime dagger",
+        "cost" : 25,
+        "attackDamage" : 5,
+        "consumeHp" : -10,
+        "animationSpeed" : 0,
+        "animationSprites" : [35],
+        "durability" : 10,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Slime spear",
+        "cost" : 25,
+        "attackDamage" : 6,
+        "consumeHp" : -12,
+        "animationSpeed" : 0,
+        "animationSprites" : [36],
+        "durability" : 15,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Slime double axe",
+        "cost" : 35,
+        "attackDamage" : 10,
+        "consumeHp" : -20,
+        "animationSpeed" : 0,
+        "animationSprites" : [37],
+        "durability" : 20,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Slime hand axe",
+        "cost" : 30,
+        "attackDamage" : 8,
+        "consumeHp" : -16,
+        "animationSpeed" : 0,
+        "animationSprites" : [38],
+        "durability" : 15,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Antidote",
+        "cost" : 60,
+        "attackDamage" : 0,
+        "consumeHp" : 1,
+        "animationSpeed" : 0,
+        "animationSprites" : [39],
+        "durability" : -1,
+        "removesStatusEffects" : [0]
+    },
+    {
+        "name" : "Lost trident",
+        "cost" : 100,
+        "attackDamage" : 12,
+        "consumeHp" : -24,
+        "animationSpeed" : 0,
+        "animationSprites" : [40],
+        "durability" : 30,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Lost blade",
+        "cost" : 100,
+        "attackDamage" : 10,
+        "consumeHp" : -20,
+        "animationSpeed" : 0,
+        "animationSprites" : [41],
+        "durability" : 20,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Lost pike",
+        "cost" : 100,
+        "attackDamage" : 12,
+        "consumeHp" : -20,
+        "animationSpeed" : 0,
+        "animationSprites" : [42],
+        "durability" : 30,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Grail of the Ancients",
+        "cost" : 300,
+        "attackDamage" : 25,
+        "consumeHp" : -50,
+        "animationSpeed" : 0,
+        "animationSprites" : [43],
+        "durability" : 50,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Stave of the Ancients",
+        "cost" : 250,
+        "attackDamage" : 20,
+        "consumeHp" : -50,
+        "animationSpeed" : 0,
+        "animationSprites" : [44],
+        "durability" : 40,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Lost ruin fragment",
+        "cost" : 50,
+        "attackDamage" : 0,
+        "consumeHp" : 0,
+        "animationSpeed" : 0,
+        "animationSprites" : [45],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Plague cure",
+        "cost" : 80,
+        "attackDamage" : 0,
+        "consumeHp" : 1,
+        "animationSpeed" : 0,
+        "animationSprites" : [46],
+        "durability" : -1,
+        "removesStatusEffects" : [6]
+    },
+    {
+        "name" : "Gold coin",
+        "cost" : 120,
+        "attackDamage" : 0,
+        "consumeHp" : -5,
+        "animationSpeed" : 0,
+        "animationSprites" : [47],
+        "durability" : -1,
+        "removesStatusEffects" : []
+    },
+    {
+        "name" : "Ceremonial trident",
+        "cost" : 100,
+        "attackDamage" : 15,
+        "consumeHp" : -30,
+        "animationSpeed" : 0,
+        "animationSprites" : [48],
+        "durability" : 40,
+        "removesStatusEffects" : []
+    }
+]

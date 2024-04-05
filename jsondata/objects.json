@@ -1,0 +1,247 @@
+[
+    {
+        "radius" : 8,
+        "animationSpeed" : 0,
+        "animationSprites" : [0],
+        "spritesheet" : "tallobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 8,
+        "animationSpeed" : 0,
+        "animationSprites" : [1],
+        "spritesheet" : "tallobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 8,
+        "animationSpeed" : 0,
+        "animationSprites" : [2],
+        "spritesheet" : "tallobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 4,
+        "animationSpeed" : 0.2,
+        "animationSprites" : [3, 4, 5],
+        "spritesheet" : "tallobjects.png",
+        "sound" : "fire"
+    },
+    {
+        "radius" : 5,
+        "animationSpeed" : 0,
+        "animationSprites" : [6],
+        "spritesheet" : "tallobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0.2,
+        "animationSprites" : [5, 6, 7],
+        "spritesheet" : "misc.png",
+        "sound" : "fire"
+    },
+    {
+        "radius" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [0],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [1],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [2],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 14,
+        "animationSpeed" : 0,
+        "animationSprites" : [0],
+        "spritesheet" : "hugeobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0,
+        "animationSprites" : [3],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 4,
+        "animationSpeed" : 0,
+        "animationSprites" : [4],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 8,
+        "animationSpeed" : 0,
+        "animationSprites" : [32],
+        "spritesheet" : "skeleton.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0,
+        "animationSprites" : [5],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 4,
+        "animationSpeed" : 0,
+        "animationSprites" : [6],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 4,
+        "animationSpeed" : 0,
+        "animationSprites" : [7],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0,
+        "animationSprites" : [7],
+        "spritesheet" : "tallobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0,
+        "animationSprites" : [8],
+        "spritesheet" : "tallobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0,
+        "animationSprites" : [9],
+        "spritesheet" : "tallobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0,
+        "animationSprites" : [10],
+        "spritesheet" : "tallobjects.png",
+        "sound" : "lostpole"
+    },
+    {
+        "radius" : 4,
+        "animationSpeed" : 0,
+        "animationSprites" : [8],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 2,
+        "animationSpeed" : 0,
+        "animationSprites" : [9],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0,
+        "animationSprites" : [10],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 8,
+        "animationSpeed" : 0,
+        "animationSprites" : [11],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [12],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [13],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 10,
+        "animationSpeed" : 0,
+        "animationSprites" : [1],
+        "spritesheet" : "hugeobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 8,
+        "animationSpeed" : 0,
+        "animationSprites" : [14],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 3,
+        "animationSpeed" : 0,
+        "animationSprites" : [15],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 8,
+        "animationSpeed" : 0,
+        "animationSprites" : [8],
+        "spritesheet" : "misc.png",
+        "sound" : null
+    },
+    {
+        "radius" : 5,
+        "animationSpeed" : 0,
+        "animationSprites" : [16],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 8,
+        "animationSpeed" : 0.1,
+        "animationSprites" : [17, 18, 19],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 6,
+        "animationSpeed" : 0,
+        "animationSprites" : [20],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 4,
+        "animationSpeed" : 0,
+        "animationSprites" : [21],
+        "spritesheet" : "bigobjects.png",
+        "sound" : null
+    },
+    {
+        "radius" : 4,
+        "animationSpeed" : 0.3,
+        "animationSprites" : [11, 12],
+        "spritesheet" : "tallobjects.png",
+        "sound" : "fire"
+    }
+]

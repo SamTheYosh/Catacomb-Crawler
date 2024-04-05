@@ -1,0 +1,54 @@
+[
+    {
+        "text" : "Poisoned!",
+        "activeTimer" : 1000,
+        "damage" : 1,
+        "damageTimer" : 60,
+        "colour" : [128, 218, 23]
+    },
+    {
+        "text" : "Slowed!",
+        "activeTimer" : 500,
+        "speedMultiplier" : 0.5
+    },
+    {
+        "text" : "Frozen!",
+        "activeTimer" : 50,
+        "speedMultiplier" : 0,
+        "colour" : [122, 167, 217]
+    },
+    {
+        "text" : "Mushroomified!",
+        "activeTimer" : 200,
+        "speedMultiplier" : "mushroom",
+        "colour" : [117, 75, 36],
+        "flashRate" : 8
+    },
+    {
+        "text" : "Burning!",
+        "activeTimer" : 1000,
+        "damage" : 0.2,
+        "damageTimer" : 15,
+        "colour" : [173, 64, 17],
+        "flashRate" : 10,
+        "sound" : "firestatus"
+    },
+    {
+        "text" : "Electrocuted!",
+        "activeTimer" : 50,
+        "speedMultiplier" : 0,
+        "colour" : [196, 181, 18],
+        "screenShake" : 3,
+        "flashRate" : 30,
+        "sound" : "shock"
+    },
+    {
+        "text" : "Plagued!",
+        "activeTimer" : null,
+        "damage" : 1,
+        "damageTimer" : 120,
+        "colour" : [95, 27, 143],
+        "flashRate" : 3,
+        "speedMultiplier" : 0.8
+    }
+]

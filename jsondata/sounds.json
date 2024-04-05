@@ -1,0 +1,96 @@
+{
+    "step" : {
+        "filename" : "step-@.ogg",
+        "randomFilename" : [1, 7],
+        "pitch" : [0.8, 1.2],
+        "volume" : [0.1, 0.3],
+        "priority" : 0.75
+    },
+    "hit" : {
+        "filename" : "hit-@.ogg",
+        "randomFilename" : [1, 8],
+        "pitch" : [0.8, 1.2],
+        "priority" : 2
+    },
+    "pickup" : {
+        "filename" : "pickup.ogg",
+        "pitch" : [0.4, 0.6],
+        "volume" : [0.1, 0.3],
+        "priority" : 2
+    },
+    "gulp" : {
+        "filename" : "gulp.ogg",
+        "pitch" : [0.7, 1.0],
+        "volume" : [0.5, 0.8],
+        "priority" : 2
+    },
+    "drop" : {
+        "filename" : "drop.ogg",
+        "pitch" : [0.7, 1.0],
+        "volume" : [0.3, 0.5],
+        "priority" : 2
+    },
+    "hurt" : {
+        "filename" : "hurt-@.ogg",
+        "randomFilename" : [1, 4],
+        "pitch" : [0.8, 1.2],
+        "volume" : 0.3,
+        "priority" : 2
+    },
+    "break" : {
+        "filename" : "break.ogg",
+        "pitch" : [0.7, 1.0],
+        "volume" : [0.3, 0.5],
+        "priority" : 2
+    },
+    "fire" : {
+        "filename" : "fire.ogg",
+        "pitch" : [0.7, 1.3],
+        "volume" : [0.3, 0.5],
+        "priority" : 0.5
+    },
+    "step2" : {
+        "filename" : "step-@.ogg",
+        "randomFilename" : [1, 7],
+        "pitch" : [0.4, 0.8],
+        "volume" : [0.2, 0.4],
+        "priority" : 0.75
+    },
+    "lostpole" : {
+        "filename" : "lostpole.ogg",
+        "pitch" : [0.9, 1.1],
+        "volume" : [0.3, 0.5],
+        "priority" : 0.5
+    },
+    "horse" : {
+        "filename" : "neigh.ogg",
+        "pitch" : [0.5, 1.5],
+        "volume" : [0.8, 1.5],
+        "priority" : 0.8
+    },
+    "horsehurt" : {
+        "filename" : "horsehurt.ogg",
+        "pitch" : [0.5, 1.5],
+        "volume" : [0.5, 0.8],
+        "priority" : 0.81
+    },
+    "zap" : {
+        "filename" : "zap-@.ogg",
+        "randomFilename" : [1, 2],
+        "pitch" : [0.9, 1.1],
+        "volume" : [0.5, 1.0],
+        "priority" : 0.6
+    },
+    "firestatus" : {
+        "filename" : "fire.ogg",
+        "pitch" : [0.9, 1.1],
+        "volume" : 1.0,
+        "priority" : 0.7
+    },
+    "shock" : {
+        "filename" : "shock.ogg",
+        "pitch" : [0.9, 1.1],
+        "volume" : 1.0,
+        "priority" : 0.7
+    }
+}
